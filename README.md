@@ -1,5 +1,9 @@
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 
+<p align="center">
+  <img src="https://github.com/YanisNoham/YanisNoham/blob/main/Images/bannerPage.png" alt="banner" />
+</p>
+
 # 💫 About Me:
 
 ## 🇬🇧
